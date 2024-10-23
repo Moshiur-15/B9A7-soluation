@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co.com/GHqRcJD/istockphoto-1442924072-612x612.jpg",
+      "recipe_name": "Chicken Stir Fry",
+      "short_description": "A quick and easy stir fry with chicken, vegetables, and a savory sauce.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": 25,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co.com/GP8HZBt/istockphoto-1399179382-612x612.jpg",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A classic Italian pasta dish with a rich meat sauce.",
+      "ingredients": ["400 g ground beef", "300 g spaghetti", "150 g tomato paste", "2 cloves garlic", "100 g Parmesan cheese"],
+      "preparing_time": 40,
+      "calories": 450
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co.com/3YLCpQx/istockphoto-1155044772-612x612.jpg",
+      "recipe_name": "Vegan Tacos",
+      "short_description": "Delicious plant-based tacos with fresh veggies and a spicy sauce.",
+      "ingredients": ["200 g black beans", "150 g corn", "100 g avocado", "50 g lettuce", "30 ml lime juice"],
+      "preparing_time": 20,
+      "calories": 280
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co.com/4stq3r9/photo-1625944226626-9bd664656506.jpg",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Healthy grilled salmon fillets with a lemon and herb marinade.",
+      "ingredients": ["400 g salmon fillet", "2 tbsp olive oil", "50 ml lemon juice", "1 tbsp fresh dill", "1 tsp garlic powder"],
+      "preparing_time": 30,
+      "calories": 350
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co.com/3MwQY2f/istockphoto-1500120977-612x612.jpg",
+      "recipe_name": "Beef Burrito",
+      "short_description": "Hearty burritos filled with beef, rice, and beans, topped with salsa.",
+      "ingredients": ["300 g ground beef", "200 g rice", "150 g black beans", "50 g cheddar cheese", "100 g salsa"],
+      "preparing_time": 35,
+      "calories": 500
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co.com/dPXG4r7/istockphoto-975988956-612x612.jpg",
+      "recipe_name": "Fluffy Pancakes",
+      "short_description": "Classic breakfast pancakes that are soft, fluffy, and delicious.",
+      "ingredients": ["200 g flour", "2 eggs", "250 ml milk", "50 g sugar", "2 tsp baking powder"],
+      "preparing_time": 15,
+      "calories": 270
+    }
+  ]
+  
