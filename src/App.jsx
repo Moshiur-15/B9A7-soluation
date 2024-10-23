@@ -47,7 +47,7 @@ function App() {
   
   return (
     <>
-      <div className="container mx-auto flex my-10 gap-5">
+      <div className="p-3 md:p-0 container mx-auto flex flex-col md:flex-row my-10 gap-5">
         <Products handleProductTable={handleProductTable}></Products>
         <ProductTable 
         productTable={productTable} 

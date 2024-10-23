@@ -13,7 +13,7 @@ const Products = ({handleProductTable}) => {
     fetchData();
   }, []);
   return (
-    <div className="w-2/3">
+    <div className="md:w-2/3">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {products.map((product, inx) => (
           <Product key={inx} product={product} handleProductTable={handleProductTable}></Product>

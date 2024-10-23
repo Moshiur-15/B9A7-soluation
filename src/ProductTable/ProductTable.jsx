@@ -8,7 +8,7 @@ const ProductTable = ({
   // console.log(productTable);
   //   console.log(products)
   return (
-    <div className="w-1/3  border rounded-xl">
+    <div className="md:w-1/3  border rounded-xl">
       {/* fast table */}
       <div className="border-b-2 pb-8">
         <h2 className="text-center py-3 font-bold text-xl">
