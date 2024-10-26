@@ -58,7 +58,7 @@ const ProductTable = ({
           <table className="table">
             {/* head */}
             <thead>
-              <tr>
+              <tr>npm i surge
                 <th></th>
                 <th>Name</th>
                 <th>Time</th>
